@@ -133,7 +133,7 @@ card-content {
     color: hsl(228, 45%, 44%); 
 }
 
-@media (max-width: 375px) {
+@media (max-width: 600px) {
     .card {
         display: flex;
         flex-direction: column;
